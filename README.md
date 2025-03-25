@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Marcos
 
-<!--
-**pagmovel/pagmovel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor backend com +30 anos de experiência em soluções corporativas.  
+Foco atual em APIs REST, automações e integração de sistemas.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- PHP, Python, Laravel, Flask, Vue.js
+- Integrações com sistemas jurídicos, automações, soluções SAAS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+- 🔗 [SimpleORM_Python](https://github.com/pagmovel/SimpleORM_Python)
+- 🔗 [Estudo de automações com WhatsApp e IAs](https://github.com/pagmovel/Estudo-de-Automacoes-com-Whatsapp-e-IAs)
+- 🔗 [mbilling](https://github.com/pagmovel/mbilling)
+
+## 📫 Contato
+[LinkedIn]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/marcos-ronaldo-almeida-silva-60b19b52/)) • marcos.ronaldo@gmail.com
