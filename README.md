@@ -9,7 +9,8 @@ Foco atual em APIs REST, automações e integração de sistemas.
 
 ## 📌 Projetos em destaque
 - 🔗 [SimpleORM_Python](https://github.com/pagmovel/SimpleORM_Python)
-  - ORM simples em Python para mapeamento objeto-relacional.
+  -  ORM simples em Python com foco em produtividade e manutenção.  
+     Reduz a necessidade de escrever rotinas repetitivas de manipulação de dados em bancos relacionais, usando estruturas práticas e bem organizadas.
 - 🔗 [Estudo de automações com WhatsApp e IAs](https://github.com/pagmovel/Estudo-de-Automacoes-com-Whatsapp-e-IAs)
   - Testes e ideias sobre automação usando inteligência artificial e integração com WhatsApp.
 - 🔗 [Finampe](https://github.com/pagmovel/Finampe)
