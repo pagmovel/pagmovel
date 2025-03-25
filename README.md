@@ -11,8 +11,11 @@ Foco atual em APIs REST, automações e integração de sistemas.
 - 🔗 [SimpleORM_Python](https://github.com/pagmovel/SimpleORM_Python)
   -  ORM simples em Python com foco em produtividade e manutenção.  
      Reduz a necessidade de escrever rotinas repetitivas de manipulação de dados em bancos relacionais, usando estruturas práticas e bem organizadas.
+     
 - 🔗 [Estudo de automações com WhatsApp e IAs](https://github.com/pagmovel/Estudo-de-Automacoes-com-Whatsapp-e-IAs)
-  - Testes e ideias sobre automação usando inteligência artificial e integração com WhatsApp.
+  - Ambiente Docker com todas as ferramentas necessárias para estudos de automações entre IAs e WhatsApp.  
+    O mesmo ambiente pode ser facilmente replicado em servidores de produção, facilitando testes e deploys reais.
+    
 - 🔗 [Finampe](https://github.com/pagmovel/Finampe)
   - Aplicação Laravel + Vue.js para gestão de pequenos negócios e automação de tarefas financeiras.
 
