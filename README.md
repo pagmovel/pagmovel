@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Marcos Ronaldo
 
-<!--
-**pagmovel/pagmovel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor backend com +30 anos de experiência em soluções corporativas.  
+Foco atual em APIs REST, automações e integração de sistemas.
 
-Here are some ideas to get you started:
+## Tecnologias
+- PHP, Python, Laravel, Flask, Vue.js  
+- Integrações, automações, soluções SAAS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+  
+- [Finampe](https://github.com/pagmovel/Finampe)  
+  Aplicação Laravel + Vue.js para gestão de pequenos negócios e automação de tarefas financeiras.
+
+- [Option-Strategy-Bot-for-Bybit](https://github.com/pagmovel/Option-Strategy-Bot-for-Bybit)  
+  Robô em Python para análise e geração de sinais de estratégias de opções usando a Bybit e o modelo Black–Scholes.  
+  Armazena os sinais em SQLite, gera notificações de rolagem e integra com a API via ccxt para obter dados de mercado.
+
+## Contato
+[LinkedIn](https://www.linkedin.com/in/marcos-ronaldo-almeida-silva-60b19b52/) • marcos.ronaldo@gmail.com
